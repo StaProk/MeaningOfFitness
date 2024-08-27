@@ -1,0 +1,2 @@
+# MeaningOfFitness
+Back end of a website where workout programs, meals, supplements and personal records are stored and shared. The API is implemented using dapper-queries-stored procedures (C# and MS SQL) and REST architecture. In this API user authentication is present so every user has full control of their account, and only they. 
